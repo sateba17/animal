@@ -1,3 +1,8 @@
+# Animal Project
+This project is built with React and allows you to generate a random pet image with the heart on the corner. Then click the image you like to show a bigger heart.
+
+![Animal project snapshot](./src/svg/animal-project.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
